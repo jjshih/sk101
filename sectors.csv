@@ -79,6 +79,8 @@ DAI,STA,
 yCRV,STA,
 AR,STOR,Arweave
 SC,STOR,Siacoin
+EGLD, NEW
+NEAR, NEW
 STORJ,STOR,Storj
 ETHV,VRE,Ethverse
 MANA,VRE,Decentraland
